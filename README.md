@@ -1,7 +1,7 @@
 # ProyectoGrupo3
 Proyecto del semestre 3 en la materia POO
 
-Este proyecto requiere desarrollar un programa que  permita al usuario  generar recepciones de las habitaciones de un hotel para ello el usuario 
+Este proyecto es un programa que  permita al usuario  generar recepciones de las habitaciones de un hotel para ello el usuario 
 deberá ingresar al sistema y seguir los siguientes pasos que se detallaran a continuación :
 1.- Si es usuario nuevo en el sistema deberá crear una cuenta para que pueda acceder al mismo, 
 caso contrario su acceso no será permitido. Los datos que se solicita para la creación de 
